@@ -1,6 +1,6 @@
 ## 启动
 
-1. 克隆项目：`https://github.com/zhuweixiong22/scheduling.git`。
+1. 克隆项目：`https://github.com/novohit/scheduling.git`。
 2. 本地数据库创建一个名为 `scheduling` 的库。
 3. 修改配置文件 `src/main/resources/application.yml`，主要修改数据库连接的用户名和地址。
 4. 启动项目。
